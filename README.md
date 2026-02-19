@@ -20,4 +20,6 @@ Status
 This is an experimental tool. Validation across different instrument generations and software versions is ongoing. Always verify converted files before use in critical workflows.
 
 For usage:
-DO NOT DELETE THE REFERENCE_TEMPLATE.DM3 !!!
+Install all required library.
+DO NOT DELETE THE reference_template.dm3!!!
+RUN THE CONVERTER BY RUNNING emd_to_dm_converter.py, the other script will automatically run.
