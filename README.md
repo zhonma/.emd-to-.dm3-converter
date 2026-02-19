@@ -3,7 +3,7 @@ Metadata-preserving TEM file converter between .emd and .dm3 formats. Independen
 
 Transmission Electron Microscopy (TEM) workflows are often fragmented across proprietary file formats. Some analysis tools support .emd, while others rely on .dm3, creating unnecessary friction when transferring data between platforms.
 
-This project provides a research-oriented converter between .emd and .dm3 formats, with a strong focus on preserving embedded metadata during the conversion process. Experimental parameters, acquisition settings, calibration data, and structural metadata are retained to the greatest extent technically possible.
+This project provides a vibe-coded research-oriented converter between .emd and .dm3 formats, with a strong focus on preserving embedded metadata during the conversion process. Experimental parameters, acquisition settings, calibration data, and structural metadata are retained to the greatest extent technically possible.
 
 Important Notes
 
