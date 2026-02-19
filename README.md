@@ -18,3 +18,6 @@ Users are responsible for ensuring compliance with any applicable software licen
 Status
 
 This is an experimental tool. Validation across different instrument generations and software versions is ongoing. Always verify converted files before use in critical workflows.
+
+For usage:
+DO NOT DELETE THE REFERENCE_TEMPLATE.DM3 !!!
